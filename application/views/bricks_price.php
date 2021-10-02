@@ -1,0 +1,1 @@
+<input type="hidden" id="unitPrice" onkeyup="calculating();" value="<?php echo $bricks_price->price; ?>">
